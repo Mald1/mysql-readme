@@ -1,5 +1,4 @@
 
-```markdown
 # Conceitos de SQL
 
 ## 1. Operadores de Agregação
@@ -30,6 +29,3 @@ Transações garantem que um conjunto de operações em um banco de dados seja e
 ## 8. Stored Procedures e Triggers
 - **Stored Procedures**: Conjuntos de instruções SQL que podem ser armazenadas e executadas no banco de dados. Elas permitem encapsular lógica de negócio.
 - **Triggers**: Procedimentos que são automaticamente executados em resposta a eventos específicos no banco de dados, como `INSERT`, `UPDATE` ou `DELETE`.
-```
-
-Sinta-se à vontade para personalizar mais, se desejar!

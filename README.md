@@ -1,4 +1,3 @@
-Claro! Aqui está o conteúdo formatado em Markdown:
 
 ```markdown
 # Conceitos de SQL
